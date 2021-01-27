@@ -1,0 +1,10 @@
+---
+
+reply:
+  sticker_message: False
+
+tide:
+  url: https://www.cwb.gov.tw/V8/C/M/Fishery/tide_30day_MOD/T500021.html
+  reply_title: 新北市 三芝區 潮汐預報
+  alert_threshold: -130
+

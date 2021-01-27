@@ -1,0 +1,6 @@
+# Python tmp files.
+*.pyc
+__pycache__
+dist
+*.egg-info
+tmp/

@@ -1,0 +1,10 @@
+APScheduler 
+bs4
+line-bot-sdk
+lxml
+flask
+flask-cors
+pyyaml
+psycopg2
+requests
+sqlalchemy

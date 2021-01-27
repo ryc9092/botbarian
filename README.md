@@ -1,2 +1,2 @@
 # botbarian
-line bot to reply informations from web
+line bot for provide useful informations.
